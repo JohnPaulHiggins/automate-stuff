@@ -1,0 +1,1 @@
+@pyw.exe C:\Users\John\Documents\Programming Projects\Automate the Boring Stuff\mcb.pyw %*

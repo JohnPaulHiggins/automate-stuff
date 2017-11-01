@@ -1,0 +1,8 @@
+In this document, I will be searching for the word "banana."
+
+That word does not appear on this line.
+
+This line doesn't have it either.
+But this one does. Banana.
+
+I deliberately messed up the line spacing, up there.
